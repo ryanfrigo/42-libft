@@ -11,7 +11,7 @@
 # **************************************************************************** #
 
 NAME 		= libft.a
-FLAGS 		= -Wall -Werror -Wextra -c -I.
+FLAGS 		= -Wall -Werror -Wextra -c -I./includes
 FILES 		= ./*.c
 
 all: $(NAME)
